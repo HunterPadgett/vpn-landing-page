@@ -1,0 +1,21 @@
+body {
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+h2,
+h3 {
+  font-family: "PT Serif", serif;
+}
+
+a span {
+  color: #0f866c;
+}
+
+.border-color {
+  border-color: #0f866c;
+}
+
+.border-color:hover {
+  border-color: #d4e300;
+}

@@ -26,11 +26,11 @@ export default function Nav() {
     <div>
       <nav
         style={navbarStyle}
-        className=" text-black fixed w-full z-20 top-0 left-0  "
+        className=" text-black fixed w-full  z-20 top-0 left-0  "
       >
         <div
           style={navbarStyle}
-          className="heroBg max-w-screen-2xl flex flex-wrap items-center justify-between mx-auto px-5 py-6"
+          className="heroBg max-w-full flex flex-wrap items-center justify-between mx-auto px-5 xl:px-48 py-6"
         >
           <a href="#" style={navbarStyle} className="heroBg flex items-center">
             <img
