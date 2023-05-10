@@ -1,0 +1,26 @@
+/* html {
+  background-color: #f9f8f2;
+} */
+
+h1 {
+  font-family: "PT Serif", serif;
+}
+
+.heroBg {
+  background-color: #f9f8f2;
+}
+
+.btncolor {
+  background-color: #0f866c;
+}
+
+.btncolor:hover {
+  background-color: #d4e300;
+  color: #001d2f;
+}
+
+@media (min-width: 1600px) {
+  .widepad {
+    padding-left: 20rem /* 320px */;
+  }
+}
