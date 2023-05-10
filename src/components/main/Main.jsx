@@ -7,7 +7,7 @@ export default function Main() {
         Why ExpressVPN?
       </h2>
       {/* 1st section */}
-      <section className="container mx-auto mb-10 md:mb-20 max-w-5xl p-3 grid grid-cols-1 md:grid-cols-2 md:gap-20">
+      <section className="container mx-auto mb-10 md:mb-20 max-w-5xl p-3 grid grid-cols-1 md:grid-cols-2 md:gap-24">
         <div className="flex items-center justify-center">
           <img src="/devices.avif" alt="devices" className="h-80 md:h-96" />
         </div>
@@ -41,7 +41,7 @@ export default function Main() {
         </div>
       </section>
       {/* 2nd section */}
-      <section className="container mx-auto mb-10 md:mb-20  max-w-5xl p-3 grid grid-cols-1 md:grid-cols-2 md:gap-20">
+      <section className="container mx-auto mb-10 md:mb-20  max-w-5xl p-3 grid grid-cols-1 md:grid-cols-2 md:gap-24">
         <div className="flex flex-col items-center md:items-start md:justify-start">
           <h3 className="text-2xl font-semibold pl-2 pb-10">
             Ultra-fast global access
@@ -67,7 +67,7 @@ export default function Main() {
         </div>
       </section>
       {/* 3rd section */}
-      <section className="container mx-auto mb-10 md:mb-20 max-w-5xl p-3 grid grid-cols-1 md:grid-cols-2 md:gap-20">
+      <section className="container mx-auto mb-10 md:mb-20 max-w-5xl p-3 grid grid-cols-1 md:grid-cols-2 md:gap-24">
         <div className="flex items-center justify-center">
           <img src="/lamp.avif" alt="lamp" className="h-80 md:h-96" />
         </div>
