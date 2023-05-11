@@ -62,7 +62,7 @@ export default function Main() {
             </span>
           </a>
         </div>
-        <div className="flex items-center justify-center order-first pb-12 md:pb-0">
+        <div className="flex items-center justify-center order-first md:order-last pb-12 md:pb-0">
           <img src="/globe.avif" alt="devices" className=" h-40 md:h-48" />
         </div>
       </section>
