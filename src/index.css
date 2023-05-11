@@ -20,13 +20,8 @@
 
 html {
   overflow-x: hidden;
-  scrollbar-width: none;
 }
 
 body {
   min-height: 100vh;
-  -ms-overflow-style: none;
-}
-body::-webkit-scrollbar {
-  display: none;
 }

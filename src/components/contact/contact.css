@@ -1,0 +1,15 @@
+.border-color {
+  border-color: #0f866c;
+}
+
+.text-color {
+  color: #0f866c;
+}
+
+.bg-color:hover {
+  background-color: #d4e300;
+  border: none;
+  color: black;
+}
+
+
