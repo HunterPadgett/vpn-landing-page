@@ -6,8 +6,7 @@ This project is a clone of the ExpressVPN landing page built with React and Tail
 
 Deployed link: [expressvpn-landingpage.netlify.app/](https://expressvpn-landingpage.netlify.app)
 
-![image](https://user-images.githubusercontent.com/106113692/223767918-415dbd6c-e13e-48ff-88a6-c553592fd78b.png)
-![image](https://user-images.githubusercontent.com/106113692/223768052-d7840a92-e28b-4fa8-a451-e3e89098da2f.png)
+![vpn](https://github.com/HunterPadgett/vpn-landing-page/assets/106113692/7343ea4c-9034-436a-870f-7d159ebcd55a)
 
 ## Table of Contents
 
